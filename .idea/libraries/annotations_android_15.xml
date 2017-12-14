@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="annotations-android-15">
+    <CLASSES>
+      <root url="jar://D:/adt-bundle-windows-x86_64-20140702/sdk/tools/support/annotations.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

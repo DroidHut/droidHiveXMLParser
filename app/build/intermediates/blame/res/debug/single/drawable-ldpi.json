@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\STUDIO\\AndroidStudioProjects\\AndroidXMLParsing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon.png",
+        "source": "E:\\STUDIO\\AndroidStudioProjects\\AndroidXMLParsing\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Kanishk\\AndroidStudioProjects\\AndroidXMLParsing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon.png",
+        "source": "C:\\Users\\Kanishk\\AndroidStudioProjects\\AndroidXMLParsing\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Kanishk\\AndroidStudioProjects\\AndroidXMLParsing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\item.png",
+        "source": "C:\\Users\\Kanishk\\AndroidStudioProjects\\AndroidXMLParsing\\app\\src\\main\\res\\drawable-ldpi\\item.png"
+    },
+    {
+        "merged": "E:\\STUDIO\\AndroidStudioProjects\\AndroidXMLParsing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\item.png",
+        "source": "E:\\STUDIO\\AndroidStudioProjects\\AndroidXMLParsing\\app\\src\\main\\res\\drawable-ldpi\\item.png"
+    }
+]

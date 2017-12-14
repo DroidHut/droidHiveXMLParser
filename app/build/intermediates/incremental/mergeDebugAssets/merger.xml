@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Kanishk\AndroidStudioProjects\AndroidXMLParsing\app\src\main\assets"><file name="font/kruti.ttf" path="C:\Users\Kanishk\AndroidStudioProjects\AndroidXMLParsing\app\src\main\assets\font\kruti.ttf"/></source><source path="C:\Users\Kanishk\AndroidStudioProjects\AndroidXMLParsing\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Kanishk\AndroidStudioProjects\AndroidXMLParsing\app\src\debug\assets"/></dataSet></merger>
